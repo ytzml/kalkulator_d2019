@@ -5,3 +5,4 @@ def dodaj():
 	print(a+b)
 	
 print('Koniec programu')
+print('Papa')
